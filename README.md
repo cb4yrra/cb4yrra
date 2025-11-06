@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZhbTNlb2hueW50dWU5MDIyYmczbTI2N2U4ZmFkZTliaXFkNHBidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0megwbBeETMgZa/giphy.gif)](https://rishavchanda.io)
+[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh2aDNuZHlvZG5uaWdmeDRmbjdjNjVlZXBrb2N4YjlpZWMzaXpuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif)](https://rishavchanda.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cb4yrra&label=Profile%20views&color=0e75b6&style=flat" alt="cb4yrra" /> </p>
 
