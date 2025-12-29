@@ -1,7 +1,6 @@
 
 <p align="center"> - 🌱 I’m currently studying at 𝗣𝗶𝗻𝗲𝗰𝗼𝗻𝗲 𝗔𝗰𝗮𝗱𝗲𝗺𝘆 - </p>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center"></p>
 
 <div align="center">
